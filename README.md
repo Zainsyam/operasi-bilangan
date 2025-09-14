@@ -28,4 +28,4 @@ Hasil Modulus: 0
 
 ---
 
-Mau saya sekalian buatin juga file `OperasiBilangan.java` biar repo kamu langsung ada contoh program dasarnya?
+Mau saya sekalian buatin juga file `OperasiBilanganAbs.java` biar repo kamu langsung ada contoh program dasarnya?
